@@ -1,0 +1,23 @@
+{
+  "name": "affiliate_flipkart_amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanta1987/affiliate_flipkart_amazon.git"
+  },
+  "author": "PK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanta1987/affiliate_flipkart_amazon/issues"
+  },
+  "homepage": "https://github.com/prasanta1987/affiliate_flipkart_amazon#readme",
+  "dependencies": {
+    "apac": "^3.0.2",
+    "flipkart-affiliate-client-v1": "^1.0.4"
+  }
+}
